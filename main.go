@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	// Sum Two Number
-	var a, b int
-	fmt.Scan(&a, &b)
-	fmt.Println(a + b)
+	var w, h int
+	fmt.Scan(&w, &h)
+	fmt.Println(w * h)
 }
